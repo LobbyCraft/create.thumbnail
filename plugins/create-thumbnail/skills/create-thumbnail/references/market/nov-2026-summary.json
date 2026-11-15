@@ -1,0 +1,32 @@
+{
+  "capture_date": "2026-11-15",
+  "chart_sections": 26,
+  "chart_placements": 1515,
+  "chart_universes": 912,
+  "november_images": 4317,
+  "november_images_by_kind": {
+    "thumbnail": 3494,
+    "icon": 823
+  },
+  "other_slots_by_status": {
+    "existing": 1172,
+    "Unavailable": 3,
+    "Blocked": 17
+  },
+  "creator_images": 149,
+  "creator_images_by_source": {
+    "X": 12,
+    "Roblox DevForum portfolio": 129,
+    "BuiltByBit": 3,
+    "Fiverr (Koolako)": 1,
+    "Fiverr (Youssefemads)": 1,
+    "Codartt": 3
+  },
+  "verified_x_posts": 10,
+  "x_observed_view_range": [
+    1716,
+    62731
+  ],
+  "new_individually_annotated": 63,
+  "new_references": 4466
+}

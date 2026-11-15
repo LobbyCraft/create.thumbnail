@@ -15,6 +15,12 @@ Create the actual image using the host image-generation tool, not merely a promp
 - Use sensible defaults when the scene is sufficient. Ask one concise bundled question only if missing information materially changes the result. Do not require a long questionnaire or approval round before generation.
 - Default to a polished, colourful Roblox 3D game render with no text when the brief gives no style direction. Select a relevant visual family from the supplemental playbook and inspect any supplied reference images. Current instructions and task-specific references override the baseline; do not force bright daylight, expressive faces or studs when the chosen family calls for a different treatment.
 
+## Match professional Roblox references
+
+Read the [market benchmark](references/market/README.md). Start with its annotated examples and choose one close reference for the gameplay hook and another for the visual finish. Open the actual images where accessible. Compare framing, perspective, pose clarity, silhouette, lighting and materials, and carry those craft choices into an original arrangement for the requested game. Use the user's scene and supplied images as the primary direction. Leave source branding, watermarks and unrelated claims out of the output.
+
+Compare the draft with the references at full size and at roughly 320 × 180 for landscape thumbnails. Check the focal action, clean edges, readable silhouettes, plausible contact and consistent light. Make targeted corrections when available. When the source cannot be viewed, use another source or the supplied artwork.
+
 ## Character and face references
 
 Read [character-baselines.md](references/character-baselines.md) when a Bacon Boy or Bacon Girl appears. The attached Bacon Girl reference is authoritative: red/orange bun hair with swept fringe and side locks, white/light-grey head and C hands, teal denim jacket, grey/white striped shirt, burgundy trousers and black shoes. Preserve her supplied Roblox proportions.
@@ -52,6 +58,6 @@ For revisions, use the selected previous output as the edit canvas. Use the smal
 
 ## Visual references
 
-Use the user's supplied images as the primary direction. [Market examples](references/market-examples.json) provide provenance links and visual notes for selected Roblox titles. Open the source if available and relevant. If a source is unavailable, continue with the user's references and the playbook. Chart placement and player counts do not establish image-level CTR.
+Use the user's supplied images as the primary direction. The [November 2026 market benchmark](references/market/README.md) and [earlier market examples](references/market-examples.json) provide provenance links and visual notes for selected Roblox titles. Open the source if available and relevant. If a source is unavailable, continue with the user's references and the playbook. Chart placement and player counts do not establish image-level CTR.
 
 Use the sibling thumbnail-reference-intake skill to analyse new references for a brief.
