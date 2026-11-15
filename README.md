@@ -44,6 +44,24 @@ Reopen ChatGPT desktop and start a new chat. If it still loads an older copy, ru
 | Uninstall create.thumbnail | `codex plugin remove create-thumbnail@lobbycraft` |
 | Remove the marketplace | `codex plugin marketplace remove lobbycraft` |
 
+## In-chat plugin commands
+
+In ChatGPT Work, type `@` and select **create.thumbnail** from the picker, then describe what you want to make or change.
+
+```text
+@create.thumbnail Make a Roblox thumbnail of two avatars jumping across lava.
+@create.thumbnail Analyse these attached images and give me a reusable thumbnail style brief.
+```
+
+In Codex, use the `$` picker to select either skill directly. The picker may show the plugin name alongside the skill name.
+
+| Skill | What it does | Example in Codex |
+| --- | --- | --- |
+| `create-thumbnail` | Generates thumbnails and game icons, edits artwork, and exports PNG or JPEG files. | `$create-thumbnail Make a 512 × 512 game icon of a Roblox avatar hanging from a ceiling.` |
+| `thumbnail-reference-intake` | Analyses reference images and turns them into a reusable style brief. | `$thumbnail-reference-intake Analyse these three screenshots and list the style choices I should reuse.` |
+
+Thumbnail, icon, edit, and export requests all use the creation skill. Describe the specific action in your prompt.
+
 ## Prompts to use in ChatGPT
 
 - Create a Roblox thumbnail of two blocky avatars jumping between lava platforms. Put the checkpoint in the distance and leave text off.
