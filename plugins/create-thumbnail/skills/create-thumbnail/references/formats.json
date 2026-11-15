@@ -1,0 +1,41 @@
+{
+  "default": "thumbnail",
+  "formats": {
+    "thumbnail": {
+      "width": 1920,
+      "height": 1080,
+      "aspect_ratio": "16:9",
+      "file_type": "PNG",
+      "file_types": [
+        "PNG",
+        "JPEG"
+      ]
+    },
+    "game-icon": {
+      "width": 512,
+      "height": 512,
+      "aspect_ratio": "1:1",
+      "file_type": "PNG",
+      "file_types": [
+        "PNG",
+        "JPEG"
+      ]
+    }
+  },
+  "export_formats": {
+    "default": [
+      "PNG",
+      "JPEG"
+    ],
+    "PNG": {
+      "extension": ".png",
+      "mime_type": "image/png"
+    },
+    "JPEG": {
+      "extension": ".jpeg",
+      "mime_type": "image/jpeg",
+      "quality": 95,
+      "chroma_subsampling": 0
+    }
+  }
+}

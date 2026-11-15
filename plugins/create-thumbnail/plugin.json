@@ -1,0 +1,35 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "LobbyCraft"
+  },
+  "description": "Create Roblox thumbnails and game icons from scene prompts, with Roblox humanoid styling, click appeal, and reference-driven art direction.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [],
+        "category": "Creativity",
+        "composerIcon": "./assets/icon.png",
+        "defaultPrompt": [
+          "Create a 1920 × 1080 Roblox thumbnail from my scene idea.",
+          "Create a 512 × 512 Roblox game icon from my idea.",
+          "Use my references to define a Roblox thumbnail style."
+        ],
+        "developerName": "LobbyCraft",
+        "displayName": "create.thumbnail",
+        "logo": "./assets/icon.png",
+        "longDescription": "Create Roblox thumbnails at 1920 × 1080 and game icons at 512 × 512 from scene descriptions and reference images. Generate and revise artwork using ChatGPT image generation, then export PNG and JPEG copies. Requires a ChatGPT environment with image generation and file processing.",
+        "shortDescription": "Roblox thumbnails & icons"
+      }
+    }
+  },
+  "keywords": [
+    "Roblox",
+    "thumbnail",
+    "game icon",
+    "image generation",
+    "CTR"
+  ],
+  "name": "create-thumbnail",
+  "version": "0.4.2"
+}
