@@ -21,17 +21,21 @@ Read the [market benchmark](references/market/README.md). Start with its annotat
 
 Compare the draft with the references at full size and at roughly 320 × 180 for landscape thumbnails. Check the focal action, clean edges, readable silhouettes, plausible contact and consistent light. Make targeted corrections when available. When the source cannot be viewed, use another source or the supplied artwork.
 
+## Approved characters for thumbnails
+
+For any thumbnail containing characters, use only the five characters in the [approved roster](references/characters/README.md). Apply this to every visible figure, including background characters and thumbnail revisions. Open and attach the actual sheet for each selected identity. For a thumbnail, these sheets govern identity and body shape over older character baselines, market examples and generic rig defaults. Scene references can guide layout, lighting and poses. Character-free thumbnails skip these steps. The existing character workflow for square game icons continues below.
+
 ## Character and face references
 
-Read [character-baselines.md](references/character-baselines.md) when a Bacon Boy or Bacon Girl appears. The attached Bacon Girl reference is authoritative: red/orange bun hair with swept fringe and side locks, white/light-grey head and C hands, teal denim jacket, grey/white striped shirt, burgundy trousers and black shoes. Preserve her supplied Roblox proportions.
+For game icons, read [character-baselines.md](references/character-baselines.md) when a Bacon Boy or Bacon Girl appears. The attached Bacon Girl reference is authoritative: red/orange bun hair with swept fringe and side locks, white/light-grey head and C hands, teal denim jacket, grey/white striped shirt, burgundy trousers and black shoes. Preserve her supplied Roblox proportions.
 
-Use a supplied reference when the user requests a specific face. For official Roblox classic faces, see [face selection](references/face-selection.md) and [the catalogue](references/official-faces.tsv). Match the expression to the scene, keep its scale proportionate to the head, and use the full face design. If a face is essential and its texture is unavailable, ask the user to attach it. The image generator may approximate decals, so verify fidelity before describing a match as exact.
+For thumbnails, preserve the approved character identity and consult the roster’s face guidance. For game icons, use a supplied reference when the user requests a specific face. For official Roblox classic faces, see [face selection](references/face-selection.md) and [the catalogue](references/official-faces.tsv). Match the expression to the scene, keep its scale proportionate to the head, and use the full face design. If a face is essential and its texture is unavailable, ask the user to attach it. The image generator may approximate decals, so verify fidelity before describing a match as exact.
 
 ## Build the image
 
 Read [art-direction.md](references/art-direction.md) and the [supplemental thumbnail playbook](references/thumbnail-playbook.md). Turn the scene into a concise art brief and send it to image generation. Include the selected output dimensions, aspect ratio, character anatomy, action and spatial relationships, camera, lighting, focal hierarchy, colours, background, and exclusions.
 
-Characters must read immediately as Roblox humanoids: blocky heads and torso, squared limbs, toy-like hands and feet, simplified faces, recognisable Roblox avatar proportions. Prefer classic blocky R6-like proportions unless a supplied avatar/reference calls for a different Roblox rig. Avoid realistic human anatomy, realistic skin detail, five-finger human hands, or generic smooth cartoon humans. Gender presentation follows the request through hair, outfit, face and accessories without sexualisation or degrading stereotypes. Characters should have distinct silhouettes and clearly readable emotions.
+Characters must read immediately as Roblox humanoids: blocky heads and torso, squared limbs, toy-like hands and feet, simplified faces, recognisable Roblox avatar proportions. Match the selected roster sheet’s proportions in thumbnails. In game icons, prefer classic blocky R6-like proportions unless a supplied avatar reference calls for a different Roblox rig. Avoid realistic human anatomy, realistic skin detail, five-finger human hands, or generic smooth cartoon humans. Gender presentation follows the request through hair, outfit, face and accessories without sexualisation or degrading stereotypes. Characters should have distinct silhouettes and clearly readable emotions.
 
 Generate one polished image by default. If variants are requested, vary a meaningful composition or emotional hook and preserve the actual game premise. Follow the current image tool's reference, transparency, and output-display rules. Inspect local reference files before editing and pass the actual references through supported tool inputs. Default to an opaque full-bleed scene, not a transparent cutout.
 
@@ -58,6 +62,6 @@ For revisions, use the selected previous output as the edit canvas. Use the smal
 
 ## Visual references
 
-Use the user's supplied images as the primary direction. The [November 2026 market benchmark](references/market/README.md) and [earlier market examples](references/market-examples.json) provide provenance links and visual notes for selected Roblox titles. Open the source if available and relevant. If a source is unavailable, continue with the user's references and the playbook. Chart placement and player counts do not establish image-level CTR.
+Use the user's supplied images as the primary scene direction. For thumbnails, use the approved roster for every character identity. The [November 2026 market benchmark](references/market/README.md) and [earlier market examples](references/market-examples.json) provide provenance links and visual notes for selected Roblox titles. Open the source if available and relevant. If a source is unavailable, continue with the user's references and the playbook. Chart placement and player counts do not establish image-level CTR.
 
 Use the sibling thumbnail-reference-intake skill to analyse new references for a brief.

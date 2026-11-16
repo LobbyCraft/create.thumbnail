@@ -15,7 +15,7 @@
     "shortDescription": "Roblox thumbnails & icons"
   },
   "name": "create-thumbnail",
-  "version": "0.4.4",
+  "version": "0.4.5",
   "description": "Create Roblox thumbnails and game icons from scene prompts, with Roblox humanoid styling, click appeal, and reference-driven art direction.",
   "author": {
     "name": "LobbyCraft"

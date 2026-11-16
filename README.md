@@ -72,6 +72,8 @@ Thumbnail, icon, edit, and export requests all use the creation skill. Describe 
 
 Attach your artwork or face decal when an exact visual match matters. The public package includes source links and design notes for Roblox market examples and official classic faces. Reference images can be supplied in chat.
 
+Version 0.4.5 bundles the [five approved character sheets](plugins/create-thumbnail/skills/create-thumbnail/references/characters/README.md) as the exclusive roster for thumbnails with characters.
+
 Version 0.4.4 adds the [November 2026 market benchmark](plugins/create-thumbnail/skills/create-thumbnail/references/market/README.md), with 4,466 reference links and 63 individually annotated examples. The skill uses these to compare marketplace artwork against the requested scene at full size and mobile preview size.
 
 For install or export problems, open an issue in [GitHub Issues](https://github.com/LobbyCraft/create.thumbnail/issues).
