@@ -21,7 +21,9 @@ Read the [market benchmark](references/market/README.md). Start with its annotat
 
 Compare the draft with the references at full size and at roughly 320 × 180 for landscape thumbnails. Check the focal action, clean edges, readable silhouettes, plausible contact and consistent light. Make targeted corrections when available. When the source cannot be viewed, use another source or the supplied artwork.
 
-## Approved characters for thumbnails
+## Approved characters for thumbnails — STRICT CHARACTER LOCK
+
+**Authoritative user direction (2026-11-18): ONLY use the five characters in the bundled turnaround sheets for every thumbnail that contains any characters.** Do not create generic Roblox avatars, background extras, reskinned variants, or figures from market references. Use the actual reference image for each chosen character, never just a verbal likeness description. Treat the character's body silhouette, hair, hands, clothing, shoes, skin and accessories as fixed identity traits, changing only pose, expression (within the existing face rules), orientation, and camera framing. Character-free thumbnails are unaffected; square game icons retain their separate identity workflow unless the user later changes it. If a requested design is outside the roster, ask to change the roster first.
 
 For any thumbnail containing characters, use only the five characters in the [approved roster](references/characters/README.md). Apply this to every visible figure, including background characters and thumbnail revisions. Open and attach the actual sheet for each selected identity. For a thumbnail, these sheets govern identity and body shape over older character baselines, market examples and generic rig defaults. Scene references can guide layout, lighting and poses. Character-free thumbnails skip these steps. The existing character workflow for square game icons continues below.
 
