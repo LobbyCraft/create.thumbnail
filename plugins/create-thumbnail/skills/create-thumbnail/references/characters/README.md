@@ -1,6 +1,6 @@
-# Approved thumbnail character roster
+# Approved thumbnail character roster (strict; 18 November 2026)
 
-The five user-supplied turnaround sheets define every character used in a generated thumbnail. This includes heroes, NPCs, villains, background crowds, and characters carried into a revised thumbnail. Character-free thumbnails need no roster selection.
+The five user-supplied turnaround sheets define every character used in a generated thumbnail. This includes heroes, NPCs, villains, background crowds, and characters carried into a revised thumbnail. No generic avatars, unapproved variants, or extra figures are permitted. When the scene calls for more characters than the roster provides, reuse the approved identities with different poses. Character-free thumbnails need no roster selection.
 
 | Character | Reference sheet | Identity and body cues |
 | --- | --- | --- |
@@ -16,5 +16,6 @@ The five user-supplied turnaround sheets define every character used in a genera
 - Open the exact sheet for each chosen character and attach the image bytes as identity references through the image tool. Use the closest matching reference angle, including rear and side views where appropriate. If the required sheet cannot be loaded and supplied, report the blocker and request the sheet. A market example or verbal description cannot substitute for it.
 - Match the sheet’s head, hair silhouette, head-to-torso and torso-to-leg proportions, shoulders, hands, limbs, skin colour, clothing, shoes and signature accessories. The two Bacon Boys are distinct body designs. Avoid swapping or combining anatomy, outfits or accessories between sheets. Use the sheets as reference artwork, without claiming that any of them is an official Roblox body mesh.
 - Keep each character’s default on-sheet face and any face covering consistent. For a requested expression, the existing official Roblox classic-face workflow can change the expression without changing the character’s identity, face coverage or head geometry.
+- For progression scenes, orient the entire body and gaze in the actual direction of travel and objective, not merely the head. Check that feet contact platforms and held props are attached coherently.
 - Change poses and camera for the scene. Do not reproduce reference-sheet headings, labels, grids or studio backdrops in the thumbnail. The ninja’s costume markings are part of its design.
 - Before export, compare every generated figure with the sheet at the closest pose angle. Check the body silhouette, proportions and hands separately from likeness. Correct roster violations and material shape drift before delivery. If image generation still materially changes the approved design, report the discrepancy and do not present it as a verified match.
